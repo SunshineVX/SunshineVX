@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SunshineVX
-- 👀 A college student.
 - 🌱 I’m currently learning Java and C.
 
 <!---
